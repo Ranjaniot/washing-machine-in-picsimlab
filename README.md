@@ -1,5 +1,5 @@
 # washing machine project with picsimlab , MPLAB X IDE and MPLAB XC Compiler
-this project deign and development of the washing machine - in picsimlan 
+this project deign and development of the washing machine - in picsimlab
 #  Purpose
 This project focuses on simulating a washing machine using PicsimLab, aiming to
 replicate real-world washing machine functionality in a virtual environment. The project
